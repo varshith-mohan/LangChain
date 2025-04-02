@@ -1,0 +1,22 @@
+1. create a new folder
+
+2. open it in vs code
+
+3. create a new venv
+python -m venv venv
+
+4. activate venv -- make sure you have updated pip module
+venv\Scripts\Activate - windows
+source venv/bin/activate  - macOS
+
+5. create the requirements.txt
+
+6. install packages from requirements.txt (cmd+s) then
+pip install -r requirements.txt
+
+7. verify LangChain installation by creating a new test.py file and 
+print(langchain.__version__) (cmd+s) then in terminal type python test.py 
+
+
+8. go to openAI and create an API key and in VScode create a new .env file and OPEN_API_KEY = "your api key"
+
