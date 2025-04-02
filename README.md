@@ -11,4 +11,6 @@ LangChain is an open source framework that helps in building LLM based applicati
 
 <img width="901" alt="Screenshot 2025-04-02 at 10 27 09 PM" src="https://github.com/user-attachments/assets/3faa4119-7501-4651-98bf-7f863cc5f44a" />
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 <img width="758" alt="Screenshot 2025-04-02 at 11 46 03 PM" src="https://github.com/user-attachments/assets/e7a81ad3-22f7-43da-80d8-8d4febe3d4c5" />
